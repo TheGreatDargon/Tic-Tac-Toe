@@ -44,8 +44,8 @@ A final note, in my connect-4 project I used two different methods for one versu
 
 # TODO
 
-- [ ] Create main method menu with options for one player, two player, change dimensions and quit
+- [X] Create main method menu with options for one player, two player, change dimensions and quit
 - [ ] Create the board using a data structure (maybe something better than 2d nparray?)
-- [ ] Create helper method for the gameplay loop
-- [ ] Create helper method for player to place a piece on the board
+- [X] Create helper method for the gameplay loop
+- [X] Create helper method for player to place a piece on the board
 - [ ] Create helper method for changing the dimensions of the board
